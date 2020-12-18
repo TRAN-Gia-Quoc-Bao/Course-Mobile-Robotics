@@ -5,7 +5,7 @@ More codes will come soon.
 
 Contents:
 
-Lab 1: Attitude estimation using indirect Kalman filtering
+1. Lab 1: Attitude estimation using indirect Kalman filtering
 
 By: Gia Quoc Bao TRAN
 
