@@ -8,3 +8,5 @@ Contents:
 Lab 1: Attitude estimation using indirect Kalman filtering
 
 By: Gia Quoc Bao TRAN
+
+![UGA logo](https://github.com/TRAN-Gia-Quoc-Bao/Course-Mobile-Robotics/blob/main/logoUGA.jpg)
